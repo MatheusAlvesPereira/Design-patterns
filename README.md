@@ -1,4 +1,4 @@
-# Design Patterns
+# Design Patterns in PHP
 
 ## About the Project
 This project aims to provide a collection of common design patterns implemented in PHP. Design patterns are reusable solutions to commonly occurring problems in software design, helping developers write more maintainable, scalable, and efficient code.
